@@ -1,3 +1,7 @@
+# Following the Tailwing CSS course on youtube
+
+[`Tailwind CSS Full Course - 3 Hours`](https://youtu.be/lCxcTsOHrjo?si=62kyhw2URsBbwR6P)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
